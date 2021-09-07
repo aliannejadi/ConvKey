@@ -25,3 +25,5 @@ Below you can find a sample of the data taken from `ConvKey_processed_min2max4.c
 | ------------- | ------------- | --- |
 |['find', 'background', 'information', 'about', 'man', 'made', 'satellites']|[2, 5]| 2 |
 |['bring', 'back', 'the', 'dark', 'how', 'our', 'overuse', 'of', 'artificial', 'light', 'is', 'changing', 'nighttime', 'for', 'the', 'worse']|[6, 8, 9]|3|
+|['the', 'hidden', 'vast', 'cruelty', 'of', 'this', 'health', 'care', 'bill', 'an', 'attack', 'on', 'care', 'for', 'the', 'elderly', 'disabled', 'and', 'most', 'vulnerable']|[2, 6, 7, 8]|4|
+|['us', 'tanks', 'arrive', 'in', 'germany', 'to', 'help', 'nato', 'defences']|[0, 4, 7]|3|
